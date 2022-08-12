@@ -129,6 +129,14 @@ footer {
 	background-repeat: no-repeat;
 }
 
+.segundaPromo {
+	background-image: url(../imagenes/promo-main-2.jpg);
+	height: 100%;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 /*MENÚ ONLINE*/
 .fondoMenu {
 	background-image: url(../imagenes/fondo-home-2.jpg);
@@ -175,6 +183,42 @@ footer {
 }
 
 .bigCuk:hover {
+	transform: scale(1.1);
+	transition: 0.75s;
+	transition-delay: 0.1s;
+}
+
+.celestial {
+	background-image: url(../imagenes/20220811_192836.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0;
+}
+
+.celestial:hover {
+	transform: scale(1.1);
+	transition: 0.75s;
+	transition-delay: 0.1s;
+}
+
+.angel {
+	background-image: url(../imagenes/20220811_192858.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0;
+}
+
+.angel:hover {
 	transform: scale(1.1);
 	transition: 0.75s;
 	transition-delay: 0.1s;
