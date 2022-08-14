@@ -11,7 +11,7 @@ body {
 	font-family: "Oswald", sans-serif;
 	font-size: 100%;
 	font-weight: 300;
-	animation: fadein 1s;
+	animation: fadein 0.75s;
 }
 
 /*HEADER*/
