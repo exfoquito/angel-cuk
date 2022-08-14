@@ -162,6 +162,7 @@ footer {
 	align-items: center;
 	justify-content: center;
 	padding: 0;
+	border-radius: 10px;
 }
 
 .adan:hover {
@@ -180,6 +181,7 @@ footer {
 	flex-direction: column;
 	justify-content: center;
 	padding: 0;
+	border-radius: 10px;
 }
 
 .bigCuk:hover {
@@ -198,6 +200,7 @@ footer {
 	flex-direction: column;
 	justify-content: center;
 	padding: 0;
+	border-radius: 10px;
 }
 
 .celestial:hover {
@@ -216,6 +219,7 @@ footer {
 	flex-direction: column;
 	justify-content: center;
 	padding: 0;
+	border-radius: 10px;
 }
 
 .angel:hover {
@@ -234,6 +238,7 @@ footer {
 	flex-direction: column;
 	justify-content: center;
 	padding: 0;
+	border-radius: 10px;
 }
 
 .eden:hover {
@@ -280,7 +285,7 @@ footer {
 .masInfo:hover .infoBurger {
 	display: flex;
 	animation: fadein 0.25s;
-	
+	border-radius: 10px;
 }
 
 /*SOBRE NOSOTROS*/
