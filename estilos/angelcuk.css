@@ -166,7 +166,7 @@ footer {
 
 .adan:hover {
 	transform: scale(1.1);
-	transition: 0.75s;
+	transition: 0.25s;
 	transition-delay: 0.1s;
 }
 
@@ -184,7 +184,7 @@ footer {
 
 .bigCuk:hover {
 	transform: scale(1.1);
-	transition: 0.75s;
+	transition: 0.25s;
 	transition-delay: 0.1s;
 }
 
@@ -202,7 +202,7 @@ footer {
 
 .celestial:hover {
 	transform: scale(1.1);
-	transition: 0.75s;
+	transition: 0.25s;
 	transition-delay: 0.1s;
 }
 
@@ -220,7 +220,25 @@ footer {
 
 .angel:hover {
 	transform: scale(1.1);
-	transition: 0.75s;
+	transition: 0.25s;
+	transition-delay: 0.1s;
+}
+
+.eden {
+	background-image: url(../imagenes/Screenshot_20220813-145528_Instagram-01.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 40vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0;
+}
+
+.eden:hover {
+	transform: scale(1.1);
+	transition: 0.25s;
 	transition-delay: 0.1s;
 }
 
@@ -261,7 +279,8 @@ footer {
 
 .masInfo:hover .infoBurger {
 	display: flex;
-	animation: fadein 0.75s;
+	animation: fadein 0.25s;
+	
 }
 
 /*SOBRE NOSOTROS*/
